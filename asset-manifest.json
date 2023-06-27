@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactcoded/static/css/main.53bcab0a.css",
+    "main.js": "/reactcoded/static/js/main.857a93f3.js",
+    "static/media/siri.png": "/reactcoded/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/reactcoded/index.html",
+    "main.53bcab0a.css.map": "/reactcoded/static/css/main.53bcab0a.css.map",
+    "main.857a93f3.js.map": "/reactcoded/static/js/main.857a93f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.857a93f3.js"
+  ]
+}
